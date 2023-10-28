@@ -1,6 +1,6 @@
-Kids Shopping Store
+# Kids Shopping Store
 
-Components of Our Project:
+Components of  Project:
 *	Shopping Page
 *	Order Page
 *	Cart Page
