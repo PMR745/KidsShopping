@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KidsShopping/static/css/main.31569618.css",
+    "main.js": "/KidsShopping/static/js/main.e3fdc997.js",
+    "index.html": "/KidsShopping/index.html",
+    "main.31569618.css.map": "/KidsShopping/static/css/main.31569618.css.map",
+    "main.e3fdc997.js.map": "/KidsShopping/static/js/main.e3fdc997.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31569618.css",
+    "static/js/main.e3fdc997.js"
+  ]
+}
